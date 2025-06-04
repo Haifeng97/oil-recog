@@ -1,0 +1,26 @@
+<annotation>
+	<folder>polluted</folder>
+	<filename>WX20250603-162537@2x.png</filename>
+	<path>/Users/jiahaifeng/Projects/oil recog/dataset/polluted/WX20250603-162537@2x.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>890</width>
+		<height>618</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>7</ymin>
+			<xmax>405</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>
